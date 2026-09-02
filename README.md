@@ -113,6 +113,8 @@ getGlobalErrors(error);
 
 ## API
 
+The planned public API for version 0.1 is documented in [docs/API_DESIGN.md](docs/API_DESIGN.md).
+
 ### `normalizeErrors(error, options?)`
 
 Converts an unknown API error response into a normalized error object.
