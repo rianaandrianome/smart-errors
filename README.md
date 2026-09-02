@@ -369,3 +369,7 @@ Issues and pull requests are welcome. Good contributions include:
 - Edge cases from real API responses
 - Type improvements
 - Documentation examples for popular frontend use cases
+
+## License
+
+MIT
